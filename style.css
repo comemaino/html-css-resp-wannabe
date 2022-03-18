@@ -75,7 +75,7 @@ img {
 
 /* MEDIA QUERY */
 /* PHONE */
-/* @media screen and (max-width: 419px) {
+@media screen and (max-width: 419px) {
 
   body {
     font-family: Verdana, Geneva, Tahoma, sans-serif;
@@ -107,7 +107,7 @@ img {
   hr {
     margin-top: 2rem;
   }
-} */
+}
 
 /* TABLET */
 @media screen and (min-width: 420px) and (max-width: 768px) {
